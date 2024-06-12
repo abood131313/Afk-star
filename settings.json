@@ -1,13 +1,13 @@
 {
   "bot-account": {
-    "username": "bot",
-    "password": "your_password",
+    "username": "Staff",
+    "password": "Staffpas",
     "type": "microsoft"
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
+    "ip": "stars_mc.aternos.me",
+    "port": 32499,
     "version": "1.19.3"
   },
 
